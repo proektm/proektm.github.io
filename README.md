@@ -1,1 +1,1 @@
-This site stores the information about changing in proektm projects.
+This site stores the information about changing in proektm's projects.
